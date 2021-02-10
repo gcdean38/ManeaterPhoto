@@ -10,9 +10,9 @@ removePic();
 </script>
 
         
-**Important Notes:**
-- Be sure to add a close angle bracket (>) at the end of the line
-- Replace the word "LINK" with the link to the necessary graphic or photo!
-- Access the image link by clicking on the graphic or photo name, right clicking on the image and selecting "Copy Image Address"
+> **Important Notes:**
+> - Be sure to add a close angle bracket (>) at the end of the line
+> - Replace the word "LINK" with the link to the necessary graphic or photo!
+> - Access the image link by clicking on the graphic or photo name, right clicking on the image and selecting "Copy Image Address"
 
 
