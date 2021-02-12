@@ -1,13 +1,16 @@
 # ManeaterPhoto
 Add this code to the top of your article!
 
-`<img src="LINK" width="100%" height="100%">`
+```
+<img src="LINK" width="100%" height="100%">
 
-`<script>
-function removePic() {
-document.getElementById("articlePictureBox").remove();
-}
-removePic();</script>`
+<script>
+  function removePic() {
+    document.getElementById("articlePictureBox").remove();
+  }
+  removePic();
+</script>
+```
 
 > **Important Notes:**
 > - Replace the word "LINK" with the link to the necessary *static* graphic or photo!
