@@ -13,7 +13,7 @@ Add this code to the top of your article!
 ```
 
 > **Important Notes:**
-> - Access the image link by clicking on the graphic or photo name, right clicking on the image and selecting "Copy Image Address"
+> - Access the image link by navigating to the appropriate folder, clicking on the visual name, right clicking on the image and selecting "Copy Image Address"
 > - Replace the word "LINK" with the link to the necessary *static* graphic or photo!
 
 
