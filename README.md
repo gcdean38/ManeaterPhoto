@@ -1,4 +1,4 @@
-# ManeaterPhoto
+# How to use ManeaterVisual
 Add this code to the top of your article!
 
 ```
